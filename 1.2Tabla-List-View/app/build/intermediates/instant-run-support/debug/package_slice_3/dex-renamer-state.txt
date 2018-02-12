@@ -1,0 +1,4 @@
+#Sun Feb 11 20:43:28 MST 2018
+base.0=/home/ds22/AndroidStudioProjects/DispMoviles/1.2Tabla-List-View/app/build/intermediates/transforms/dexMerger/debug/3
+path.0=classes.dex
+renamed.0=classes.dex

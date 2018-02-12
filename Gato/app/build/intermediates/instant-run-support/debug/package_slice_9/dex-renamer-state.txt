@@ -1,0 +1,4 @@
+#Sun Feb 11 15:20:36 MST 2018
+base.0=/home/ds22/AndroidStudioProjects/DispMoviles/Gato/app/build/intermediates/transforms/dexMerger/debug/10
+path.0=classes.dex
+renamed.0=classes.dex
